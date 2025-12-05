@@ -1524,5 +1524,31 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20lkasdk.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20lkasdk%0ASKU%3A%20adjkad%0APrice%3A%20%E2%82%B93242%0AAvailability%3A%20sldj%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 64,
+        "name": "Final Test 1",
+        "slug": "final-test-1",
+        "sku": "kjas",
+        "brand": "Final Final",
+        "badge": "Final",
+        "availability": "Final",
+        "description": "kandk",
+        "details": "kjsadkj",
+        "tags": "sadja,jkad,ksajd,ajd",
+        "price": {
+            "old": "₹124",
+            "new": "₹323"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/64/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/64/hover.webp"
+        },
+        "otherImages": [
+            "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/64/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/64/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Final%20Test%201.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Final%20Test%201%0ASKU%3A%20kjas%0APrice%3A%20%E2%82%B9323%0AAvailability%3A%20Final%0A%0APlease%20confirm%20my%20order."
     }
 ];

@@ -1550,5 +1550,57 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Final%20Test%201.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Final%20Test%201%0ASKU%3A%20kjas%0APrice%3A%20%E2%82%B9323%0AAvailability%3A%20Final%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 65,
+        "name": "Test JS",
+        "slug": "test-js",
+        "sku": "lsadk",
+        "brand": "jadj",
+        "badge": "lkjadl",
+        "availability": "jasd",
+        "description": "lkasd",
+        "details": "lksad",
+        "tags": "asdo,asda,adsad,ad",
+        "price": {
+            "old": "₹1313",
+            "new": "₹2233"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/65/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/65/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/65/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/65/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Test%20JS.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Test%20JS%0ASKU%3A%20lsadk%0APrice%3A%20%E2%82%B92233%0AAvailability%3A%20jasd%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 66,
+        "name": "My Final Test",
+        "slug": "my-final-test",
+        "sku": "jsadj",
+        "brand": "jadkj",
+        "badge": "adj,",
+        "availability": "kjasdk",
+        "description": "kajad",
+        "details": "lkjadlkjadlkj",
+        "tags": "lkad,kjadlk,kjad",
+        "price": {
+            "old": "₹1999",
+            "new": "₹9999"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/66/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/66/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/66/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/66/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20My%20Final%20Test.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20My%20Final%20Test%0ASKU%3A%20jsadj%0APrice%3A%20%E2%82%B99999%0AAvailability%3A%20kjasdk%0A%0APlease%20confirm%20my%20order."
     }
 ];

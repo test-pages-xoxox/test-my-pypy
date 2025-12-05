@@ -1654,5 +1654,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20kasd.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20kasd%0ASKU%3A%20lksdj%0APrice%3A%20%E2%82%B99999999%0AAvailability%3A%20asd%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "Live Testing",
+        "slug": "live-testing-e32262b7ed13",
+        "sku": "kjadjk",
+        "brand": "asdj",
+        "badge": "ljsadlj",
+        "availability": "lkjasldj",
+        "description": "kjaskjd",
+        "details": "jasdkj",
+        "tags": "lkasjdljsa",
+        "price": {
+            "old": "₹1233",
+            "new": "₹2323"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/live-testing-e32262b7ed13/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/live-testing-e32262b7ed13/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/live-testing-e32262b7ed13/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/live-testing-e32262b7ed13/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20Live%20Testing.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20Live%20Testing%0ASKU%3A%20kjadjk%0APrice%3A%20%E2%82%B92323%0AAvailability%3A%20lkjasldj%0A%0APlease%20confirm%20my%20order."
     }
 ];

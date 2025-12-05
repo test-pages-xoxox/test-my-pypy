@@ -1628,5 +1628,31 @@ const products = [
         },
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20askdd%20asdiajd%20jasjda%20Finallll.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20askdd%20asdiajd%20jasjda%20Finallll%0ASKU%3A%20nsadhj%0APrice%3A%20%E2%82%B99999%0AAvailability%3A%20jasodijs%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": "#",
+        "name": "kasd",
+        "slug": "kasd-4fddb402092d",
+        "sku": "lksdj",
+        "brand": "jsajdk",
+        "badge": "jsad",
+        "availability": "asd",
+        "description": "lsdj",
+        "details": "jsdj",
+        "tags": "sad,ads,asd",
+        "price": {
+            "old": "₹44444444",
+            "new": "₹9999999"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/kasd-4fddb402092d/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/kasd-4fddb402092d/hover.webp",
+            "others": [
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/kasd-4fddb402092d/other1.webp",
+                "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/kasd-4fddb402092d/other2.webp"
+            ]
+        },
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20kasd.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20kasd%0ASKU%3A%20lksdj%0APrice%3A%20%E2%82%B99999999%0AAvailability%3A%20asd%0A%0APlease%20confirm%20my%20order."
     }
 ];

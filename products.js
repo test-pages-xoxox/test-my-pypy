@@ -1498,5 +1498,31 @@ const products = [
         ],
         "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20G-Shock%20GA-2100FL-8A%20grey%20-%20orange.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
         "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20G-Shock%20GA-2100FL-8A%20grey%20-%20orange%0ASKU%3A%20g-shock-2100FL-grey-orange%0APrice%3A%20%E2%82%B91299%0AAvailability%3A%20In%20Stock%0A%0APlease%20confirm%20my%20order."
+    },
+    {
+        "id": 61,
+        "name": "lkasdk",
+        "slug": "lkasdk",
+        "sku": "adjkad",
+        "brand": "jaldja",
+        "badge": "klasjd",
+        "availability": "sldj",
+        "description": "nsadkja",
+        "details": "sadaksnd",
+        "tags": "asd,ad,as,asd,asdasd",
+        "price": {
+            "old": "₹123",
+            "new": "₹3242"
+        },
+        "images": {
+            "main": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/61/main.webp",
+            "hover": "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/61/hover.webp"
+        },
+        "otherImages": [
+            "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/61/other1.webp",
+            "https://raw.githubusercontent.com/test-pages-xoxox/test-my-pypy/main/images/products/watch/61/other2.webp"
+        ],
+        "whatsappUrl": "https://wa.me/918097949357?text=Hello%21%20%F0%9F%91%8B%0A%0AI%27m%20interested%20in%20your%20product%3A%20lkasdk.%0ACould%20you%20please%20provide%20more%20details%20or%20confirm%20availability%3F%0A%0AThank%20you%21%20%F0%9F%99%8F",
+        "whatsappDetailed": "https://wa.me/918097949357?text=Product%3A%20lkasdk%0ASKU%3A%20adjkad%0APrice%3A%20%E2%82%B93242%0AAvailability%3A%20sldj%0A%0APlease%20confirm%20my%20order."
     }
 ];
